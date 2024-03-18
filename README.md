@@ -5,13 +5,13 @@
 This project aims to predict the risk of loan default using machine learning techniques. By analyzing historical loan data and various borrower-related factors, the model predicts the likelihood of a borrower defaulting on a loan. This prediction is valuable for financial institutions to assess risk and make informed lending decisions.
 ## Table of Contents
 1. [Introduction](#introduction)
-2. [Project Objective](#Project Objective)
+2. [Project Objective](#Project-Objective )
 3. [Dataset](#dataset)
-4. [Data Collection and Preprocessing](#Data Collection and Preprocessing)
-5. [Feature Engineering](#Feature Engineering)
-6. [Model Selection and Training](#Model Selection and Training)
-7. [Model Evaluation](#Model Evaluation)
-8. [Future Improvements](#future-improvements)
+4. [Data Collection and Preprocessing](#Data-Collection-and-Preprocessing)
+5. [Feature Engineering](#Feature-Engineering)
+6. [Model Selection and Training](#Model-Selection-and-Training)
+7. [Model Evaluation](#Model-Evaluation)
+8. [Future Improvements](#Future-improvements)
 9. [Contributing](#contributing)
 ## Introduction
 The Loan Default Risk Prediction project aims to address the critical challenge faced by financial institutions in assessing the risk associated with loan applications. Predicting whether a borrower is likely to default on a loan is a crucial aspect of risk management in lending operations. By leveraging machine learning techniques and historical loan data, this project offers a predictive model that helps financial institutions make informed decisions and minimize potential losses.
